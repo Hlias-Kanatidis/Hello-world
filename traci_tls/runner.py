@@ -1,11 +1,7 @@
 #!/usr/bin/env python
 """
 @file    runner.py
-@author  Lena Kalleske
-@author  Daniel Krajzewicz
-@author  Michael Behrisch
-@author  Jakob Erdmann
-@date    2009-03-26
+
 @version $Id: runner.py 22608 2017-01-17 06:28:54Z behrisch $
 
 Tutorial for traffic light control via the TraCI interface.
